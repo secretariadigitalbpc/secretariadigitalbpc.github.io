@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Dancing Script", cursive;
+    font-weight: 700;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    width: 1123px;
+    height: 794px;
+    background-image: url(https://fv5-2.failiem.lv/thumb.php?i=36hug76buz&v=1&n=background.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.texto-1 {
+    text-shadow: 2px 2px 1px white;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 30px;
+    font-size: 80px;
+
+}
+
+p {
+    text-shadow: 2px 2px 1px white;
+    font-size: 35px;
+    text-align: center;
+
+}
+
+.p-1 {
+    padding-bottom: 30px;
+}
+
+.span-1{
+    display: inline-block;
+    width: 800px;
+    border-bottom: 2px solid black;
+}
+
+.span-2 {
+    padding-top: 30px;
+    display: inline-block;
+    width: 70px;
+    border-bottom: 2px solid black;
+
+}
+
+.span-3 {
+    font-size: 30px;
+    display: inline-block;
+    width: 500px;
+    height: 50px;
+    border-bottom: 2px solid black;
+    padding-top: 40px;
+    background-image: url(./images/assinaturaMariaElisa.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.span-4 {
+    display: inline-block;
+    width: 500px;
+    height: 50px;
+    border-bottom: 2px solid black;
+    background-image: url(./images/AssinaturaDila1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.tatui {
+    padding-top: 35px;
+}
+
+.box-1 {
+    padding-top: 35px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-1 p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: none;
+    font-size: 26px;
+
+}
+
+p.text {
+    font-size: 22px;
+}
+
+.icon{
+    width: 180px;
+    position: absolute;
+    bottom: 5px;
+    left: 410px;
+
+}
+
+.icon-2{
+    width: 180px;
+    position: absolute;
+    bottom: 7px;
+    left: 600px;
+
+}
